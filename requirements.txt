@@ -8,3 +8,6 @@ pymupdf
 wikipedia
 langchain-text-splitters
 lxml
+python-dotenv
+langchain_openai
+chromadb
