@@ -1,0 +1,27 @@
+{
+    "product": "Laptop",
+    "price": 1200.99,
+    "features": [
+      "16GB RAM",
+      "512GB SSD",
+      "15.6 inch display"
+    ],
+    "specifications": {
+      "processor": "Intel Core i7",
+      "graphics": "NVIDIA GeForce RTX 3060",
+      "operating_system": "Windows 11"
+    },
+    "in_stock": true,
+    "reviews": [
+      {
+        "user": "Alice",
+        "rating": 5,
+        "comment": "Great laptop! Very fast and powerful."
+      },
+      {
+        "user": "Bob",
+        "rating": 4,
+        "comment": "Good value for the price."
+      }
+    ]
+  }
