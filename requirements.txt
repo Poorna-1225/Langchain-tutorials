@@ -10,7 +10,9 @@ langchain-text-splitters
 lxml
 python-dotenv
 langchain_openai
-chromadb
+
 sentence_transformers
 langchain_huggingface
 faiss-cpu
+chromadb
+langchain_chroma
